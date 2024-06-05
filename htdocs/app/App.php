@@ -2,7 +2,6 @@
 
 declare(strict_types = 1);
 
-// Your Code
 function getTransactionFiles(string $dirPath): array
 {
  $files = [];
